@@ -188,8 +188,7 @@ A working conceptual representation is:
 
 $$
 InventoryDecision_{j,t}
-=======================
-
+=
 f_j(
 D_t,
 F_t,
